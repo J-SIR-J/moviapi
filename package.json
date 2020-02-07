@@ -1,0 +1,21 @@
+{
+  "name": "07_mongodb",
+  "version": "1.0.0",
+  "description": "esta es mi primera pi en \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dapi en cinta roja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "author": "josue i\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[Josue Ibarra",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
